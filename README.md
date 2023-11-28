@@ -1,4 +1,8 @@
 # c11204ps
+**As this fork has evolved to far to maintain it as a fork of `pyCLAWSps` this
+repository will be archived and the contents moved to the
+[`c11204ps`](https://github.com/burbschat/c11204ps/) repository.**
+
 [![PyPI - Version](https://img.shields.io/pypi/v/c11204ps.svg)](https://pypi.org/project/c11204ps)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/c11204ps.svg)](https://pypi.org/project/c11204ps)
 
